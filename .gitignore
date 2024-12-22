@@ -1,0 +1,5 @@
+.env
+*.txt
+txt/
+mp3/
+.cache
